@@ -5,10 +5,10 @@ Bem-vindo ao meu cantinho no GitHub! Aqui você vai encontrar um pouco de tudo:
 - algumas aventuras tecnológica 🚀
 
 🧐 Quem sou eu?
-🎓 Graduando de Ciências dos Dados na Universidade Federal de Mato Grosso do Sul (UFMS).
-📚 Pesquisador em linguística aplicada, com um interesse especial em educação e tecnologia.
-🌱 Explorador em Inteligência Artificial, programação e como ela pode transformar a forma como aprendemos e nos comunicamos.
-✈️ Sonhador: planejando um mestrado no Brasil (e várias viagens pelo caminho!).
+- 🎓 Graduando de Ciências dos Dados na Universidade Federal de Mato Grosso do Sul (UFMS).
+- 📚 Pesquisador em linguística aplicada, com um interesse especial em educação e tecnologia.
+- 🌱 Explorador em Inteligência Artificial, programação e como ela pode transformar a forma como aprendemos e nos comunicamos.
+- ✈️ Sonhador planejando um mestrado no Brasil (e várias viagens pelo caminho!).
 
 🔭 O que você encontra aqui?
 - Projetos iniciais,
